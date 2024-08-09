@@ -1,0 +1,38 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Fi\source\repos\x264.unity\x264.unity\dllmain.cpp(16,16): warning C4309: '=': truncation of constant value
+C:\Users\Fi\source\repos\x264.unity\x264.unity\dllmain.cpp(17,16): warning C4309: '=': truncation of constant value
+libx264.lib(common.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(common.obj)' or at ''; linking object as if no debug info
+libx264.lib(encoder.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(encoder.obj)' or at ''; linking object as if no debug info
+libx264.lib(osdep.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(osdep.obj)' or at ''; linking object as if no debug info
+libx264.lib(cpu.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(cpu.obj)' or at ''; linking object as if no debug info
+libx264.lib(win32thread.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(win32thread.obj)' or at ''; linking object as if no debug info
+libx264.lib(bitstream.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(bitstream.obj)' or at ''; linking object as if no debug info
+libx264.lib(opencl.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(opencl.obj)' or at ''; linking object as if no debug info
+libx264.lib(cabac.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(cabac.obj)' or at ''; linking object as if no debug info
+libx264.lib(set.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(set.obj)' or at ''; linking object as if no debug info
+libx264.lib(predict.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(predict.obj)' or at ''; linking object as if no debug info
+libx264.lib(pixel.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(pixel.obj)' or at ''; linking object as if no debug info
+libx264.lib(mc.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(mc.obj)' or at ''; linking object as if no debug info
+libx264.lib(frame.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(frame.obj)' or at ''; linking object as if no debug info
+libx264.lib(deblock.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(deblock.obj)' or at ''; linking object as if no debug info
+libx264.lib(dct.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(dct.obj)' or at ''; linking object as if no debug info
+libx264.lib(quant.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(quant.obj)' or at ''; linking object as if no debug info
+libx264.lib(threadpool.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(threadpool.obj)' or at ''; linking object as if no debug info
+libx264.lib(vlc.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(vlc.obj)' or at ''; linking object as if no debug info
+libx264.lib(macroblock.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(macroblock.obj)' or at ''; linking object as if no debug info
+libx264.lib(setEnc.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(setEnc.obj)' or at ''; linking object as if no debug info
+libx264.lib(analyse.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(analyse.obj)' or at ''; linking object as if no debug info
+libx264.lib(lookahead.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(lookahead.obj)' or at ''; linking object as if no debug info
+libx264.lib(ratecontrol.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(ratecontrol.obj)' or at ''; linking object as if no debug info
+libx264.lib(macroblockEnc.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(macroblockEnc.obj)' or at ''; linking object as if no debug info
+libx264.lib(cabacEnc.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(cabacEnc.obj)' or at ''; linking object as if no debug info
+libx264.lib(cavlc.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(cavlc.obj)' or at ''; linking object as if no debug info
+libx264.lib(predict-c.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(predict-c.obj)' or at ''; linking object as if no debug info
+libx264.lib(mc-c.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(mc-c.obj)' or at ''; linking object as if no debug info
+libx264.lib(mvpred.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(mvpred.obj)' or at ''; linking object as if no debug info
+libx264.lib(me.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(me.obj)' or at ''; linking object as if no debug info
+libx264.lib(slicetype-cl.obj) : warning LNK4099: PDB '' was not found with 'libx264.lib(slicetype-cl.obj)' or at ''; linking object as if no debug info
+     Creating library C:\Users\Fi\source\repos\x264.unity\x64\Debug\x264.unity.lib and object C:\Users\Fi\source\repos\x264.unity\x64\Debug\x264.unity.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  x264.unity.vcxproj -> C:\Users\Fi\source\repos\x264.unity\x64\Debug\x264.unity.dll
